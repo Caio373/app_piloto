@@ -49,7 +49,7 @@ class _MyHomePageState extends State<MyHomePage> {
         backgroundColor: Colors.amber,
         centerTitle: true,
       ),
-    body: Text("Caio Fagundes",),
+    body: Center(child: Text("Caio Fagundes",)),
     
 
 
